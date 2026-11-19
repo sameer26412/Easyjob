@@ -4,7 +4,7 @@ EasyJob is a browser-based job portal and applicant tracking system built with H
 
 ## Live Demo
 
-- Live site: `https://your-project-name.vercel.app`
+- Live site: https://easyjob-xi.vercel.app/
 - Portfolio: https://sameermg-portfolio.vercel.app/
 
 ## Screenshots ### Job Application & CV Upload ![EasyJob Application Modal](assets/apply-modal.png) ### Candidate Dashboard & Messaging ![EasyJob Candidate Dashboard](assets/candidate-dashboard.png) ### Employer Applicant Tracking Dashboard ![EasyJob Employer Dashboard](assets/employer-dashboard.png) ### OTP Password Recovery (Demo Mode) ![EasyJob OTP Recovery](assets/otp-recovery.png)
@@ -12,8 +12,8 @@ EasyJob is a browser-based job portal and applicant tracking system built with H
 ## Clone and Run Locally
 
 ```bash
-git clone https://github.com/sameer26412/easyjob.git
-cd easyjob
+git clone https://github.com/sameer26412/Easyjob.git
+cd Easyjob
 ```
 
 Run it through a local HTTP server (do not open `index.html` directly over `file://`, because browsers restrict WebAssembly and the Web Crypto API on local file URLs):
@@ -38,7 +38,7 @@ Or open the folder in VS Code, install **Live Server**, right-click `index.html`
 ## Project Structure
 
 ```text
-easyjob/
+Easyjob/
 ├── index.html       # Main layout, search filters, job list, reviews, dashboard container, modal & toast
 ├── css/
 │   └── style.css    # Custom theme adjustments on top of Bootstrap 5
